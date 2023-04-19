@@ -218,7 +218,7 @@ footer {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    content: url(/exam_1/img/graffiti.jpg);
+    content: url(/img/graffiti.jpg);
     opacity: 0;
     transition: opacity 0.5s;
     width: 100%;
